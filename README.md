@@ -72,6 +72,12 @@ Here `feature_max` is decided by the distribution of depth_feature_map generated
 Cite as below if you find this repository is helpful to your project:
 
 ```
+@article{zhu2023vdn,
+  title={VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization},
+  author={Zhu, Bingfan and Yang, Yanchao and Wang, Xulong and Zheng, Youyi and Guibas, Leonidas},
+  journal={arXiv preprint arXiv:2303.17968},
+  year={2023}
+}
 ```
 
 ## Acknowledgement
