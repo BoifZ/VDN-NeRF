@@ -1,7 +1,7 @@
 # VDN-NeRF
 We propose VDN-NeRF, a method to train neural radiance fields (NeRF) for better geometry under non-Lambertian and dynamic lighting conditions that cause significant variations in the radiance of a point when viewed from different angles.
 
-## [Paper] | [Data](https://drive.google.com/drive/folders/1lw68_ne1ThujwB8uFJ79TA1iAytc3JuZ?usp=sharing)
+## [Paper](https://arxiv.org/abs/2303.17968) | [Data](https://drive.google.com/drive/folders/1lw68_ne1ThujwB8uFJ79TA1iAytc3JuZ?usp=sharing)
 This is the official repo for the implementation of **VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization**.
 
 
